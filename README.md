@@ -1,2 +1,3 @@
-# fred-data-python
-Get FRED data using Python
+# FRED Economics Data
+
+[FRED Data](https://fred.stlouisfed.org)
